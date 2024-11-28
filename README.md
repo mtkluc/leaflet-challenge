@@ -7,3 +7,5 @@ https://mtkluc.github.io/leaflet-challenge/
 
 Code was compiled with guidance from the lectures and using ChatGPT to correct any errors.
 Uses javascript / leaflet
+
+Only Part 1 was completed.
