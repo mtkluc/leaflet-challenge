@@ -6,6 +6,6 @@ The radius is varied by the magnitude of the earthquake, the depth of the earthq
 https://mtkluc.github.io/leaflet-challenge/
 
 Code was compiled with guidance from the lectures and using ChatGPT to correct any errors.
-Uses javascript / leaflet
+Uses javascript / leaflet / html
 
 Only Part 1 was completed.
